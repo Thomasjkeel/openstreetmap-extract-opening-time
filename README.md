@@ -1,2 +1,4 @@
 # openstreetmap-extract-opening-time
-TODO: finish and move code across to extract opening time of openstreetmap data
+Functions for extracting opening times from Open Street Maps (OSM) tags. You can get data for different cities from BBBike: 
+
+TODO: move code from notebook to scripts and finish functionds
